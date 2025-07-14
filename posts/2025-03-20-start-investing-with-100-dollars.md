@@ -3,8 +3,11 @@ title: "How to Start Investing in the US with Just $100: A Complete Beginner's G
 date: "2025-03-20"
 author: "Enes Gündüz"
 description: "Learn how to start investing with only $100 using Robinhood, ETFs, and fractional shares. Perfect guide for beginners with step-by-step instructions."
+cover_image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
 tags: ["investing", "beginner-investing", "robinhood", "etfs", "fractional-shares", "stock-market", "personal-finance"]
 ---
+
+![How to Start Investing in the US with Just $100](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
 
 # How to Start Investing in the US with Just $100: A Complete Beginner's Guide
 

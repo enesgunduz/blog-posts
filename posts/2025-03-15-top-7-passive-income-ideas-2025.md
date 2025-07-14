@@ -3,8 +3,11 @@ title: "Top 7 Passive Income Ideas That Actually Work in 2025"
 date: "2025-03-15"
 author: "Enes Gündüz"
 description: "Discover proven passive income strategies that generate real money in 2025. From affiliate marketing to crypto staking, learn which methods actually work."
+cover_image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2126&q=80"
 tags: ["passive-income", "affiliate-marketing", "digital-products", "airbnb", "investing", "side-hustle", "financial-freedom"]
 ---
+
+![Top 7 Passive Income Ideas That Actually Work in 2025](https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2126&q=80)
 
 # Top 7 Passive Income Ideas That Actually Work in 2025
 

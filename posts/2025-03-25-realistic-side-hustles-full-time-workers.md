@@ -3,8 +3,11 @@ title: "5 Realistic Side Hustles for People Working Full-Time Jobs in 2025"
 date: "2025-03-25"
 author: "Enes Gündüz"
 description: "Discover proven side hustles that work around your 9-5 schedule. From freelance writing to dropshipping, learn which side gigs actually generate income."
+cover_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
 tags: ["side-hustle", "extra-income", "freelancing", "work-from-home", "part-time", "gig-economy", "financial-freedom"]
 ---
+
+![5 Realistic Side Hustles for People Working Full-Time Jobs in 2025](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80)
 
 # 5 Realistic Side Hustles for People Working Full-Time Jobs in 2025
 
